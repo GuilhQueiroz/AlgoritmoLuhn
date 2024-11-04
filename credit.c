@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "../libs/getInputs/getInputs.h"
+#include "../libs/getInputs/getInputs.h" // Biblioteca personalizada 
 
 
 int main(void) {
